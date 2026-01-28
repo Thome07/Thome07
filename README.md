@@ -3,7 +3,7 @@
 Pentester Jr | Segurança Ofensiva | Java | IA aplicada à Cibersegurança (RAG)  
 Porto Alegre, RS — Brasil  
 
-[LinkedIn](https://linkedin.com/in/igor-thomé) · [GitHub](https://github.com/Thome07)
+[LinkedIn](https://linkedin.com/in/igor-thomé) · [GitHub](https://github.com/Thome07) · [currículo](https://drive.google.com/file/d/1XLOrORlxX9Crxm1XNX4NRLdLJf2IRkjK/view?usp=sharing)
 
 ---
 
